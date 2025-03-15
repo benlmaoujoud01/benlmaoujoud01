@@ -1,8 +1,9 @@
-<h1 align="center">Hi there, I'm Benlmaoujoud</h1>
+<h1 align="center">Hi there,  I'm Benlmaoujoud</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Cloud+Security+Engineer;Bug+Hunter;GO+Developer" alt="Typing SVG" />
 </div>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/benlmaoujoud01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benlmaoujoud) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@benlmaoujoud) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/benlmaoujoud) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/benlmaoujoud) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/benlmaoujoud) 
 
