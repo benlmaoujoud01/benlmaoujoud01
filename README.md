@@ -1,7 +1,7 @@
 <h1 align="center">Hi there,  I'm Benlmaoujoud</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Cloud+Security+Engineer;Bug+Hunter;GO+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Cloud+Security+Engineer;GO+Developer" alt="Typing SVG" />
 </div>
 
 ## 🌐 Socials:
